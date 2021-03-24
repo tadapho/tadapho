@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tadapho.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning NLP.
-- 📫 How to reach me in github.
+- 📫 Reach me in github.
 
 <!---
 tadapho/tadapho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
